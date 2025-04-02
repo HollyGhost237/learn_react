@@ -1,0 +1,40 @@
+/* Styles pour la page Home */
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #3498db, #8e44ad);
+    height: 100vh;
+    color: white;
+    text-align: center;
+    padding: 0px 5em 0px 5em;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: white;
+    color: #3498db;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #ecf0f1;
+  }
+  

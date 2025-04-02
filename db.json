@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": "3e6e",
+      "nom": "Tonny Stack",
+      "adresse": "Village",
+      "tel": "677234354"
+    },
+    {
+      "id": "421a",
+      "nom": "SUKUNA",
+      "adresse": "Bonaberi",
+      "tel": "686345672"
+    },
+    {
+      "id": "6888",
+      "nom": "Meli Muriele",
+      "adresse": "Logpom",
+      "tel": "686345672"
+    }
+  ]
+}
